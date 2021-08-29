@@ -1,1 +1,1 @@
-# BIKESTORES
+# STORES
